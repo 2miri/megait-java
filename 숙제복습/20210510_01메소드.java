@@ -26,7 +26,7 @@ class Rectangle {
 	}
 }
 
-public class RemindHomework02 {
+public class RemindHomework01 {
 	public static void main(String[] args) {
 		// * 메인 클래스 : Quiz01
 		// * - Rectangle 객체 1개 생성
