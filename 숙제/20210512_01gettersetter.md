@@ -1,8 +1,11 @@
 # getter and setter
 
 Student 클래스 만들기 
+
   필드 : 이름, 국, 영, 수, 평균, 등급(gpa), 학년(grade) --> private
+  
   메서드 : 
+  
 	1) 생성자 
 		Student()
 		Student(이름)
